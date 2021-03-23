@@ -4,7 +4,7 @@
 #### Installation
 
 ```ssh
-composer require dietervyncke/oak-flash-message
+composer require tallieutallieu/oak-flash-message
 ```
 
 #### Example usage
