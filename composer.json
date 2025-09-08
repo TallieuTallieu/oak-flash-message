@@ -3,7 +3,9 @@
   "description": "Flash messages for Oak",
   "keywords": ["flash", "message", "oak"],
   "type": "library",
-  "require": {},
+  "require": {
+    "tallieutallieu/oak": "^1.1.15"
+  },
   "autoload": {
     "psr-4": {
       "Tnt\\FlashMessage\\": "src/"
